@@ -1,0 +1,11 @@
+.item {
+    margin-bottom: 10px;
+  }
+  .heart {
+    color: grey;
+    cursor: pointer;
+  }
+  .liked {
+    color: red;
+  }
+  
